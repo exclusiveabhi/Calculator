@@ -14,12 +14,12 @@ This is a simple and intuitive calculator web application built using HTML, CSS,
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/exclusiveabhi/Calculator.git
+    git clone https://github.com/exclusiveabhi/calculator.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd Calculator
+    cd calculator
     ```
 
 3. Open `index.html` in your preferred web browser to run the application.
